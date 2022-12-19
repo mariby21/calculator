@@ -29,7 +29,7 @@
 98C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@swc\helpers\src\_to_property_key.mjs133159199438172558 0
 108C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133159199418159496 0
 91C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@swc\helpers\lib\_construct.js133159199424362368 0
-57C:\Users\USER\Desktop\frontendmentor\calculator\style.css133159198596491100 0
+57C:\Users\USER\Desktop\frontendmentor\calculator\style.css133159213135424132 0
 109C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133159199428770747 0
 90C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\entities\lib\maps\legacy.json133159199417456411 0
 112C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133159199425234691 0
@@ -57,7 +57,7 @@
 83C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\mdn-data\l10n\index.js133159199413705338 0
 85C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\abortcontroller-polyfill133159199418149475 1
 96C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\type-fest\source\readonly-deep.d.ts133159199423340819 0
-52C:\Users\USER\Desktop\frontendmentor\calculator\dist133159203595236216 1
+52C:\Users\USER\Desktop\frontendmentor\calculator\dist133159213031217520 1
 73C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\lmdb\LICENSE133159199418209589 0
 90C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\msgpackr-extract\package.json133159199414464999 0
 86C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\packager-html\lib133159199422532360 1
@@ -3668,7 +3668,7 @@
 97C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\source-map\dist\wasm.js.flow133159199415016460 0
 99C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\runtime-service-worker\LICENSE133159199425465302 0
 119C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133159199425625729 0
-71C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.3a01df49.css133159203594534369 0
+71C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.3a01df49.css133159213031187443 0
 103C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\runtime-react-refresh\package.json133159199426905789 0
 117C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133159199426715277 0
 117C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133159199426414474 0
@@ -4162,9 +4162,9 @@
 72C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\.bin\terser133159199471687420 0
 76C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\.bin\terser.cmd133159199471687420 0
 76C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\.bin\terser.ps1133159199471687420 0
-75C:\Users\USER\Desktop\frontendmentor\calculator\dist\calculator.3464ddca.js133159203595105869 0
-79C:\Users\USER\Desktop\frontendmentor\calculator\dist\calculator.3464ddca.js.map133159203595226189 0
-75C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.3a01df49.css.map133159203594855202 0
-70C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7c0ccee6.js133159203595095845 0
-74C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7c0ccee6.js.map133159203595216163 0
-63C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.html133159203594554402 0
+75C:\Users\USER\Desktop\frontendmentor\calculator\dist\calculator.3464ddca.js133159208876874335 0
+79C:\Users\USER\Desktop\frontendmentor\calculator\dist\calculator.3464ddca.js.map133159208876904407 0
+75C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.3a01df49.css.map133159213031207496 0
+70C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7c0ccee6.js133159208876854271 0
+74C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7c0ccee6.js.map133159208876904407 0
+63C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.html133159208877716704 0
