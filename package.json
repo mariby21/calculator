@@ -8,7 +8,8 @@
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Mario Petkov",
   "license": "ISC"
