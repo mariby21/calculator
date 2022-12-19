@@ -147,4 +147,12 @@ footer {
   .container {
     width: 370px;
   }
+
+  h1 {
+    position: relative;
+    text-align: center;
+    font-size: 22px;
+    color: #2f0743;
+    top: 0;
+  }
 }

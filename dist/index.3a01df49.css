@@ -119,6 +119,14 @@ footer {
   .container {
     width: 370px;
   }
+
+  h1 {
+    text-align: center;
+    color: #2f0743;
+    font-size: 22px;
+    position: relative;
+    top: 0;
+  }
 }
 
 /*# sourceMappingURL=index.3a01df49.css.map */
