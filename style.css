@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Orbitron:wght@500&family=Poppins:ital,wght@0,100;0,200;1,300&family=Roboto:wght@100&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: #f3904f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #3b4371,
+    #f3904f
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #3b4371,
+    #f3904f
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  min-width: 375px;
+  min-height: auto;
+}
+
+h1 {
+  color: rgb(88, 86, 86);
+  font-weight: 500;
+  text-align: center;
+
+  position: relative;
+  top: 15px;
+}
+
+.wraper {
+  display: flex;
+  width: 100%;
+}
+
+.container {
+  border: 3px solid rgb(139, 116, 116);
+  background: #41295a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2f0743,
+    #41295a
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2f0743,
+    #41295a
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 460px;
+  height: 540px;
+
+  border-radius: 12px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  box-shadow: 2px 2px 6px white;
+}
+
+.input-field {
+  width: 400px;
+  height: 122px;
+  padding: 8px;
+  margin-top: 18px;
+
+  border-radius: 6px;
+  background-color: rgba(95, 93, 94, 0.445);
+  color: rgb(247, 244, 244);
+  text-align: end;
+  font-size: 42px;
+  font-weight: 400;
+  border: none;
+}
+
+.container-btns {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  width: 395px;
+  height: 420px;
+  gap: 8px;
+  margin-top: 22px;
+}
+
+.input-field:focus {
+  outline: none;
+}
+
+.btn {
+  border-radius: 6px;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: rgba(169, 169, 169, 0.856);
+  color: white;
+}
+
+.btn-clear {
+  background-color: red;
+  border-radius: 6px;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+}
+
+.btn-equals {
+  background-color: green;
+  border-radius: 6px;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+}
+
+.btn:focus {
+  background-color: rgb(96, 94, 99);
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  color: gray;
+}
