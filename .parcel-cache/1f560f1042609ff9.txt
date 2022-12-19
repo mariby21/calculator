@@ -1,4 +1,4 @@
-4171
+4175
 108C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133159199436893393 0
 82C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\terser\tools\exit.cjs133159199413605068 0
 116C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133159199437254351 0
@@ -58,7 +58,7 @@
 83C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\mdn-data\l10n\index.js133159199413705338 0
 85C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\abortcontroller-polyfill133159199418149475 1
 96C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\type-fest\source\readonly-deep.d.ts133159199423340819 0
-52C:\Users\USER\Desktop\frontendmentor\calculator\dist133159222639064701 1
+52C:\Users\USER\Desktop\frontendmentor\calculator\dist133159222732839309 1
 73C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\lmdb\LICENSE133159199418209589 0
 90C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\msgpackr-extract\package.json133159199414464999 0
 86C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\packager-html\lib133159199422532360 1
@@ -542,6 +542,7 @@
 101C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\css-what\lib\commonjs\stringify.d.ts.map133159199418630710 0
 98C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\resolver-default\package.json133159199426344287 0
 118C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133159199431376471 0
+70C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7b986237.js133159222732769362 0
 74C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\yaml\types.js133159199426112246 0
 106C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\package-manager\src\installPackage.js133159199436783100 0
 105C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\caniuse-lite\data\features\css-namespaces.js133159199439702801 0
@@ -1368,6 +1369,7 @@
 78C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\semver\bin\semver133159199411249025 0
 106C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\caniuse-lite\data\features\form-validation.js133159199445031245 0
 81C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\safe-buffer\index.js133159199411092760 0
+74C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7b986237.js.map133159222732829283 0
 81C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\@parcel\packager-css133159199427216616 1
 88C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\regenerator-runtime\path.js133159199411092760 0
 92C:\Users\USER\Desktop\frontendmentor\calculator\node_modules\caniuse-lite\data\regions\GB.js133159199445310507 0
@@ -4167,6 +4169,8 @@
 75C:\Users\USER\Desktop\frontendmentor\calculator\dist\calculator.3464ddca.js133159208876874335 0
 79C:\Users\USER\Desktop\frontendmentor\calculator\dist\calculator.3464ddca.js.map133159208876904407 0
 75C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.3a01df49.css.map133159222638702176 0
+71C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.418aec8f.css133159222732769362 0
+75C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.418aec8f.css.map133159222732829283 0
 70C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7c0ccee6.js133159208876854271 0
 74C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.7c0ccee6.js.map133159208876904407 0
-63C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.html133159222638436471 0
+63C:\Users\USER\Desktop\frontendmentor\calculator\dist\index.html133159222732769362 0
