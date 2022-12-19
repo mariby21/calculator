@@ -8,8 +8,6 @@
 body {
   background: #f3904f;
   background: -webkit-linear-gradient(to right, #3b4371, #f3904f);
-  min-width: 375px;
-  min-height: auto;
   background: linear-gradient(to right, #3b4371, #f3904f);
   font-family: Orbitron, sans-serif;
 }
@@ -23,7 +21,6 @@ h1 {
 }
 
 .wraper {
-  width: 100%;
   display: flex;
 }
 
@@ -108,6 +105,20 @@ footer {
   color: gray;
   position: absolute;
   bottom: 0;
+}
+
+@media (max-width: 376px) {
+  body {
+    width: 375px;
+  }
+
+  .input-field, .container-btns {
+    width: 322px;
+  }
+
+  .container {
+    width: 370px;
+  }
 }
 
 /*# sourceMappingURL=index.3a01df49.css.map */

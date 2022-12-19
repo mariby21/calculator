@@ -19,9 +19,6 @@ body {
     #3b4371,
     #f3904f
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-  min-width: 375px;
-  min-height: auto;
 }
 
 h1 {
@@ -35,7 +32,6 @@ h1 {
 
 .wraper {
   display: flex;
-  width: 100%;
 }
 
 .container {
@@ -133,4 +129,22 @@ footer {
   position: absolute;
   bottom: 0;
   color: gray;
+}
+
+@media all and (max-width: 376px) {
+  body {
+    width: 375px;
+  }
+
+  .input-field {
+    width: 322px;
+  }
+
+  .container-btns {
+    width: 322px;
+  }
+
+  .container {
+    width: 370px;
+  }
 }
